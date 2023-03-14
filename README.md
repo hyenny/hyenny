@@ -7,13 +7,3 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squere&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-squere&logo=JavaScript&logoColor=white"/>
 </div>
-
-</br>
-
-<div aline=center>
-
-  ![hyenny's github stats](https://github-readme-stats.vercel.app/api?username=hyenny&show_icons=true&theme=dracula)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyenny&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
